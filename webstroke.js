@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        stroke script - web.
 // @namespace   slonkazoid
-// @match       https://*/*
+// @match       *://*/*
 // @grant       none
 // @version     3.0
 // @author      slonkazoid, iri
